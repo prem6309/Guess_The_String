@@ -2,7 +2,7 @@ import random
 
 random_color = ["R", "G", "B", "Y", "W", "O"]
 random_list = random.sample(random_color, 6)
-list = random_list[1:5]
+list_of_colors = random_list[1:5]
 
 print(list)
 
